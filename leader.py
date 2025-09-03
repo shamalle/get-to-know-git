@@ -7,10 +7,6 @@ def dnd():
     print("Hello fellow dnd players!")
 
 dnd()
-print("Alpaka: Määääh")
-print("Bienli: Bsss")
-print("Capybara: Yooo")
-print("Frosch: Sup?")
 # alpaka_says()
 # bienli_says()
 # cabypara_says()
