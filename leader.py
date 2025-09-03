@@ -7,7 +7,7 @@ def dnd():
     print("Hello fellow dnd players!")
 
 dnd()
-# alpaka_says()
+alpaka_says()
 # bienli_says()
 # cabypara_says()
 # frosch_says()
