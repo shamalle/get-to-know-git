@@ -11,12 +11,14 @@ __Capybara__         |  __Frog__
 *To see the markdown as a rendered version in VS Code, press CTRL+SHIFT+V.*
 
 ## Anweisungen:
+### Lokal
 1. Jedes Team darf sich ein Tier auswählen und das dazugehörige Python File.
 2. Erstellen Sie einen neuen Branch (sinnvoller Name) und wechseln Sie darauf. 
 3. Öffnen Sie nun die Ihnen zugewiesene Python Datei und schreiben Sie eine kleine Funktion, in der Ihr Tier seine Antwort printed. Sie sehen, wie die Funktion heissen soll im leader.py File auf Zeile 10-13. Zum Beispiel könnte es "Katze: Miau" printen.
 4. Testen Sie Ihre Funktion, in dem Sie die entsprechende Zeile im leader.py File auskommentieren und dann laufen lassen. 
 5. Fügen Sie nun Ihre Änderungen mithilfe git hinzu, committen und dann pushen:)
-Bravo! Der lokale Teil ist erledigt!
+__Bravo! Der lokale Teil ist erledigt!__
+### Remote
 6. Gehen Sie nun auf Github und 
 
 
