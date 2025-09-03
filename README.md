@@ -11,6 +11,8 @@ __Capybara__         |  __Frog__
 *To see the markdown as a rendered version in VS Code, press CTRL+SHIFT+V.*
 
 ## Anweisungen:
+
+### Lokal
 1. Jedes Team darf sich ein Tier auswählen und das dazugehörige Python File.
 2. Erstellen Sie einen neuen Branch (sinnvoller Name) und wechseln Sie darauf. 
 3. Öffnen Sie nun die Ihnen zugewiesene Python Datei und schreiben Sie eine kleine Funktion, in der Ihr Tier seine Antwort printed. Sie sehen, wie die Funktion heissen soll im leader.py File auf Zeile 10-13. Zum Beispiel könnte es "Katze: Miau" printen.
@@ -23,10 +25,10 @@ __Bravo! Der lokale Teil ist erledigt!__
 6. Gehen Sie nun auf Github. Wenn Sie das Repo öffnen, werden Sie oben einen Button sehen *compare & pull request*. Wenn Sie darauf klicken, können Sie versuchen, einen Merge mit dem main branch zu beantragen (das nennt man pull request).
 7. Schauen Sie, ob Sie einen pull request von einem anderen Team sehen und versuchen Sie, die Änderungen einzusehen und den Merge zu vollziehen.
 
-__Bravo! Falls das nun geklappt hat, ist einer von Ihren Feature Branches mit dem main gemergt worden__
+__Bravo! Falls das nun geklappt hat, ist einer von Ihren Feature Branches mit dem main gemergt worden!__
 
 ## Endresultat
-Am Schluss, wenn alle Teams ihr Feature richtig in den main Branch reingemergt haben, können Sie wieder pullen und das leader.py File wieder laufen lassen. Der Output sollte dann hoffentlich so aussehen:
+Am Schluss, wenn alle Teams ihr Feature richtig in den main Branch reingemergt haben, können Sie wieder pullen und das leader.py File wieder laufen lassen. Der Output sollte dann hoffentlich etwa so aussehen:
 
 <img src= "pictures/beispiel_hallo.png" alt="Beispiel" style="border:2px solid grey;">
 
