@@ -28,6 +28,5 @@ __Bravo! Falls das nun geklappt hat, ist einer von Ihren Feature Branches mit de
 ## Endresultat
 Am Schluss, wenn alle Teams ihr Feature richtig in den main Branch reingemergt haben, können Sie wieder pullen und das leader.py File wieder laufen lassen. Der Output sollte dann hoffentlich so aussehen:
 
-
 <img src= "pictures/beispiel_hallo.png" alt="Beispiel" style="border:2px solid grey;">
 
