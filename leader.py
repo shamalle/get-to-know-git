@@ -10,13 +10,6 @@ def dnd():
 
 dnd()
 
-print("Alpaka: Määh")
-print("Bee: Bsss")
-print("Capybara: Yooo")
-print("Duck: Quak")
-print("Elk: Sup?")
-print("Frog: Quak")
-
 # alpaka_says()
 # bienli_says()
 # cabypara_says()
