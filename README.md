@@ -1,11 +1,11 @@
 # Welcome to DnD!
 Dieses Repo repräsentiert eine DnD (Dungeons & Dragons) Spielrunde. Sie sind einer der unten abgebildeten Player. Der Dungeon Leiter heisst Sie willkommen:)
 
-Alpaka            |  Bee
-:-------------------------:|:-------------------------:
-<img src="pictures/dnd_alpaka.jpg" alt="alpaka" height="100"/>  |  <img src="pictures/dnd_bee.jpg" alt="bee" height="90"/>
-__Capybara__         |  __Frog__
-<img src="pictures/dnd_capybara.jpg" alt="capybara" height="100"/>  |  <img src="pictures/dnd_frog.jpeg" alt="frog" height="100"/>
+Alpaka            |  Bee    |   Capybara
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="pictures/dnd_alpaka.jpg" alt="alpaka" height="100"/>  |  <img src="pictures/dnd_bee.jpg" alt="bee" height="90"/> | <img src="pictures/dnd_capybara.jpg" alt="capybara" height="100"/>
+__Duck__         |  __Elk__   |  __Frog__
+<img src="pictures/dnd_duck.jpg" alt="duck" height="100"/>  | <img src="pictures/dnd_elk.jpg" alt="elk" height="100"/> |  <img src="pictures/dnd_frog.jpeg" alt="frog" height="100"/>
 
 
 *To see the markdown as a rendered version in VS Code, press CTRL+SHIFT+V.*
